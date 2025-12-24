@@ -1,5 +1,5 @@
 ## Hi 👋! My name is Haritha
-**Aspiring ML Engineer | Intern @ Zoho Corp | Ex-Intern @ MNRE (NIC)**
+**Aspiring ML Engineer | EX-Intern @ Zoho Corp | Ex-Intern @ MNRE (NIC)**
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rithuu24&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="170" alt="stats graph" />
@@ -41,7 +41,9 @@
 
 ### 🎵 Current Vibes & Activity
 <div align="center">
+  <a href="https://github.com/rithuu24" target="_blank">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rithuu24&theme=dracula" alt="streak stats" />
+   </a>
   <br>
   <a href="https://github.com/rithuu24" target="_blank">
     <img src="https://spootify-zeta.vercel.app/api/Spootify?playlistId=31p4uofdrxlw2wqvkx36twljgpyu&userName=Haritha.S&style=bar&color=f00f9d" alt="Spotify" />
