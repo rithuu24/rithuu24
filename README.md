@@ -1,77 +1,49 @@
-<h2 align="left">Hi 👋! My name is Haritha and I'm an aspiring ML Engineer, Intern at Zoho Corp and Ex-Intern at MNRE(NIC)</h2>
-
-###
+## Hi 👋! My name is Haritha
+**Aspiring ML Engineer | Intern @ Zoho Corp | Ex-Intern @ MNRE (NIC)**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rithuu24&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rithaa24&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=rithuu24&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="170" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rithuu24&layout=compact&theme=dracula&card_width=320" height="170" alt="languages graph" />
 </div>
 
-###
-
-<img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHB2bGo1ZnVlMHBhMW82NW5hdDh0aTBvbzRsZjBmMHJ1c3dna21hZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JXnGKDyWUvAha/giphy.gif"  />
-
-###
+### 🛠️ Tech Stack & Tools
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="30" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="30" alt="opencv logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="30" alt="pycharm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="pytorch logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="30" alt="r logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" title="Python" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="35" title="PyTorch" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="35" title="TensorFlow" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="35" title="OpenCV" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="35" title="Pandas" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="35" title="NumPy" />&nbsp;
+  <br><br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="35" title="AWS" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="35" title="Azure" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="35" title="GCP" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" title="Git" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="35" title="Jupyter" />&nbsp;
 </div>
 
-###
+### 🤝 Connect with Me
 
 <div align="left">
-  <a href="https://discord.com/users/rithaaa24_95918" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <a href="https://www.linkedin.com/in/siva-haritha-s-9391432b5/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:sharitha2004@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <a href="mailto:sharitha2004@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/siva-haritha-s-9391432b5/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <a href="https://discord.com/users/rithaaa24_95918" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </div>
-
-###
-
-<br clear="both">
 
 ---
-<a href="https://github.com/your-username/your-repo" target="_blank" rel="noopener noreferrer">
-  <img src="https://spootify-zeta.vercel.app/api/Spootify?playlistId=31p4uofdrxlw2wqvkx36twljgpyu&userName=Haritha.S&style=bar&color=f00f9d" alt="spotify widget generated by GitHobby" />
-</a>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rithuu24&" alt="rithuu24" /></p>
 
-
-###
+### 🎵 Current Vibes & Activity
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rithuu24&theme=dracula" alt="streak stats" />
+  <br>
+  <a href="https://github.com/rithuu24" target="_blank">
+    <img src="https://spootify-zeta.vercel.app/api/Spootify?playlistId=31p4uofdrxlw2wqvkx36twljgpyu&userName=Haritha.S&style=bar&color=f00f9d" alt="Spotify" />
+  </a>
+</div>
